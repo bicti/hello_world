@@ -1,5 +1,5 @@
 #!/usr/bin/bash
-echo "It's fixed!"
+echo "It's not fixed!"
 
 exit 0
 
